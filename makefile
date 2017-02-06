@@ -4,5 +4,6 @@ run:
 	./test
 clean:
 	rm pic.ppm
+	rm test
 	rm *~
 	rm *#
