@@ -1,5 +1,5 @@
 main: img.c
-	gcc img.c -0 test
+	gcc img.c -o test
 run:
 	./test
 clean:
